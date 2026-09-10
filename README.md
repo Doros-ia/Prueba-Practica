@@ -1,5 +1,3 @@
-<div align="center">
-
 💻 Prueba-Practica
 
 Cinco integrantes · Un equipo · Muchas ideas
