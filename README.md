@@ -23,7 +23,6 @@ N.º
 Integrante
 
 01
-
 Ashanga Yumbo Brishy Anahy
 
 02
