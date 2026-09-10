@@ -1,181 +1,135 @@
-<div align="center">
+<h1 align="center">Prueba-Practica</h1>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0D1117,60:252525,100:FACC15&amp;height=230&amp;section=header&amp;text=PRUEBA-PRACTICA&amp;fontSize=44&amp;fontColor=FACC15&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=GOTHAM%20CODE%20DIVISION&amp;descAlignY=60&amp;descSize=20&amp;descColor=FFFFFF" width="100%" alt="Prueba-Practica — Gotham Code Division">
+<p align="center">
+  <strong>🦇 LA BATICUEVA DEL CÓDIGO</strong><br>
+  <em>Gotham tiene misterios. Nosotros tenemos problemas por resolver.</em>
+</p>
 
-# 🦇 EL CÓDIGO QUE GOTHAM NECESITA
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:09090B,60:27272A,100:CA8A04&amp;height=175&amp;section=header&amp;text=Prueba-Practica&amp;fontSize=40&amp;fontColor=FACC15&amp;animation=fadeIn&amp;fontAlignY=40" width="100%" alt="Prueba-Practica: texto animado amarillo sobre ondas decorativas negras y doradas">
+</p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=700&amp;size=21&amp;duration=3200&amp;pause=1500&amp;color=C99700&amp;center=true&amp;vCenter=true&amp;width=850&amp;height=70&amp;lines=Si+lo+puedes+imaginar%2C+lo+puedes+programar.;De+d%C3%ADa+estudiantes.+De+noche%2C+cazadores+de+bugs.;Cinco+mentes.+Un+equipo.+Gotham+nos+espera." width="100%" alt="Si lo puedes imaginar, lo puedes programar. De día estudiantes. De noche, cazadores de bugs.">
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=700&amp;size=20&amp;duration=3000&amp;pause=1400&amp;color=B8860B&amp;center=true&amp;vCenter=true&amp;width=650&amp;height=55&amp;lines=Batse%C3%B1al+encendida.+Comienza+la+misi%C3%B3n.;El+mejor+detective+tambi%C3%A9n+revisa+su+c%C3%B3digo.;Gotham+descansa.+El+debug+contin%C3%BAa." width="100%" alt="Mensajes animados sobre la Batseñal, la investigación y la depuración">
+</p>
 
-**La noche es oscura. La lógica debe estar clara.**
+<p align="center">
+  <img src="https://img.shields.io/badge/PR%C3%81CTICA-ACAD%C3%89MICA-CA8A04?style=flat-square&amp;labelColor=18181B" alt="Práctica académica">
+  <img src="https://img.shields.io/badge/EQUIPO-5_INTEGRANTES-CA8A04?style=flat-square&amp;labelColor=18181B" alt="Equipo de cinco integrantes">
+  <img src="https://img.shields.io/badge/ENFOQUE-L%C3%93GICA_Y_COLABORACI%C3%93N-CA8A04?style=flat-square&amp;labelColor=18181B" alt="Enfoque en lógica y colaboración">
+</p>
 
-<img src="https://img.shields.io/badge/BASE-BATICUEVA-18181B?style=for-the-badge&amp;labelColor=18181B&amp;color=FACC15" alt="Base temática: Baticueva">
-<img src="https://img.shields.io/badge/EQUIPO-5_INTEGRANTES-18181B?style=for-the-badge&amp;labelColor=18181B&amp;color=FACC15" alt="Equipo de cinco integrantes">
-<img src="https://img.shields.io/badge/MISIÓN-RESOLVER_Y_APRENDER-18181B?style=for-the-badge&amp;labelColor=18181B&amp;color=FACC15" alt="Misión: resolver y aprender">
-
-<br><br>
-
-*Bienvenidos a la Baticueva.*<br>
-Aquí investigamos problemas, diseñamos soluciones y seguimos las pistas de cada error.
-
-</div>
+<p align="center">
+  Bienvenidos a nuestra base de operaciones.<br>
+  Aquí seguimos pistas, compartimos ideas y buscamos soluciones comprensibles.<br>
+  <strong>Cinco mentes. Un equipo. Infinitas ideas.</strong>
+</p>
 
 ---
 
-## 🌃 El expediente: Prueba-Practica
+## 🦇 Sobre la práctica · El expediente
 
-Este repositorio está destinado a nuestra **prueba práctica de programación en equipo**. Nuestra misión es aplicar conocimientos, desarrollar el razonamiento lógico y construir soluciones claras mediante la colaboración.
+Este repositorio corresponde a una **prueba práctica de programación en equipo**, centrada en el razonamiento lógico, el aprendizaje y la colaboración.
 
-Como en una investigación de Gotham, cada dato importa: analizamos el problema, organizamos los pasos y comprobamos que los resultados tengan sentido.
+La investigación de Batman inspira nuestro enfoque: observar los detalles, relacionar la información y comprobar cada hipótesis. Cada ejercicio representa un caso que buscamos entender y explicar con nuestras propias palabras.
 
-> **«Si lo puedes imaginar, lo puedes programar».**
->
-> Incluso el mejor batiinventó necesita un buen diseño… y unas cuantas pruebas.
+> **Lema del equipo:** «Si lo puedes imaginar, lo puedes programar».
 
-## 🦇 La Batfamilia del código
+La Batseñal pone el ambiente; nuestra tarea es convertir las ideas en pasos claros.
 
-Todo gran reto necesita un equipo dispuesto a resolverlo.
+## Nuestro equipo · La mesa de la Baticueva
+
+Cinco integrantes para compartir preguntas, discutir alternativas y aprender durante el proceso.
 
 | N.º | Integrante |
 | :---: | :--- |
-| **01** | **Ashanga Yumbo Brishy Anahy** |
-| **02** | **Calderon Carvajal Fher Dorian** |
-| **03** | **Casillas Ochoa Antony Sebastian** |
-| **04** | **Paredes Acosta Dereck Shair** |
-| **05** | **Sanchez Bastidas Karina Paola** |
+| 1 | Ashanga Yumbo Brishy Anahy |
+| 2 | Calderon Carvajal Fher Dorian |
+| 3 | Casillas Ochoa Antony Sebastian |
+| 4 | Paredes Acosta Dereck Shair |
+| 5 | Sanchez Bastidas Karina Paola |
 
-<div align="center">
+## Nuestro proceso · Protocolo de investigación
 
-**Cinco mentes. Un equipo. Infinitas ideas.**
+1. **Analizar:** identificar las entradas, las condiciones y el resultado esperado del problema.
+2. **Diseñar:** organizar una secuencia lógica antes de comenzar a programar.
+3. **Programar:** convertir el diseño en instrucciones claras y ordenadas.
+4. **Probar:** revisar casos normales, entradas inválidas y situaciones límite.
+5. **Documentar:** explicar las decisiones y registrar lo aprendido para facilitar su revisión.
 
-*La mejor herramienta de la Baticueva es trabajar juntos.*
+Este protocolo orienta nuestro trabajo: incluso el mejor detective necesita comprobar sus sospechas.
 
-</div>
+## Filosofía del equipo · El código de Gotham
 
-## 🔎 Protocolo de la Baticueva
+- **Constancia:** investigar la causa de un error y ajustar la solución.
+- **Creatividad:** proponer distintas rutas y evaluar cuál responde al problema.
+- **Claridad:** escribir pensando en el compañero que leerá el código después.
+- **Colaboración:** escuchar, preguntar y compartir lo que vamos comprendiendo.
+- **Aprendizaje:** reconocer los fallos para saber qué debemos practicar.
 
-| Fase | Operación | Objetivo |
-| :---: | :--- | :--- |
-| **01** | **Investigar · Analizar** | Identificar los datos, las condiciones y el resultado esperado. |
-| **02** | **Preparar · Diseñar** | Organizar una solución lógica antes de escribir código. |
-| **03** | **Construir · Programar** | Transformar el diseño en instrucciones claras. |
-| **04** | **Inspeccionar · Probar** | Revisar casos normales, entradas inválidas y casos límite. |
-| **05** | **Archivar · Documentar** | Explicar el funcionamiento y registrar lo aprendido. |
+Nuestro cinturón de herramientas empieza con atención, paciencia y disposición para revisar.
 
-> **Regla de la Baticueva:** ningún caso se cierra solo porque «en mi computadora sí funciona».
+## ☕ Zona de descanso · Alfred sirve el café
 
-## ⚡ Nuestro código de conducta
-
-- **Investigar antes de actuar.** Entender el problema es parte de resolverlo.
-- **Prepararse para lo inesperado.** Los casos límite también merecen una prueba.
-- **Dejar pistas útiles.** Variables claras y comentarios que expliquen lo necesario.
-- **Mantener la constancia.** Si una solución falla, revisamos y ajustamos.
-- **Cuidar al equipo.** Compartir lo aprendido nos permite avanzar juntos.
-
-## 🗂️ Galería de villanos
-
-*Clasificación humorística de los enemigos del programa.*
-
-| Villano | Su versión en programación | Cómo enfrentarlo |
-| :--- | :--- | :--- |
-| **El Joker** | El error que convierte la salida en un caos. | Reproducir el fallo y seguir el flujo del programa. |
-| **El Acertijo** | Una condición que nadie consigue descifrar. | Simplificar la expresión y revisar su lógica. |
-| **Dos Caras** | El `if` funciona, pero el `else` guarda una sorpresa. | Probar ambas ramas. |
-| **El Espantapájaros** | Ese mensaje de error que da miedo leer. | Revisar el mensaje completo y localizar la causa. |
-| **Bane** | El caso límite que rompe la solución. | Comprobar límites y validar las entradas. |
-
-## ☕ Descanso en la Baticueva
-
-Hasta el Caballero Oscuro necesita descansar entre compilaciones.
+Un pequeño descanso antes de volver al expediente.
 
 <details>
-<summary><b>🦇 Batman, ¿cuál es tu superpoder?</b></summary>
+<summary><b>🃏 El Joker cambió una condición</b></summary>
 
-<br>
+—Batman, solo cambié `&&` por `||`.
 
-**Encontrar el punto y coma que faltaba después de revisar todo el programa.**
+—¿Y ahora?
 
-El presupuesto de Wayne Enterprises todavía no resuelve ese problema.
+—Ahora todo Gotham pasa la validación.
+
+**Siguiente misión:** probar cada condición antes de cerrar el caso.
 
 </details>
 
 <details>
-<summary><b>🤵 Un consejo de Alfred</b></summary>
+<summary><b>❓ El Acertijo presenta su última trampa</b></summary>
 
-<br>
+«Avanzo sin moverme, repito sin terminar. Si nadie cambia mi condición, ¿quién me podrá parar?».
 
-—Señor, quizá debería guardar los cambios antes de volver a ejecutar.
+Batman revisa el contador.
 
-—Alfred, lo tengo todo bajo control.
-
-**El editor se cierra.**
-
-Esa noche nació una nueva costumbre: guardar con frecuencia.
+**Era un bucle infinito. Alfred ya había preparado tres cafés.**
 
 </details>
 
 <details>
-<summary><b>🃏 El plan del Joker</b></summary>
+<summary><b>🤵 Alfred recomienda guardar</b></summary>
 
-<br>
+—Solo voy a cambiar una cosita, Alfred.
 
-—Batman, cambié un solo símbolo de tu condición.
+Cinco minutos después:
 
-—¿Qué hiciste?
+—¿Tenemos una copia anterior?
 
-—Reemplacé `&&` por `||`.
-
-**Gotham entera pasó la validación.**
+**La prudencia también cabe en el cinturón de herramientas.**
 
 </details>
 
 <details>
-<summary><b>❓ El Acertijo tiene una pregunta</b></summary>
+<summary><b>💻 La Baticomputadora tiene una objeción</b></summary>
 
-<br>
+—En mi computadora sí funciona.
 
-*«Repito sin descansar, no sé cuándo terminar.  
-Si mi condición no cambia, ¿quién me podrá parar?»*
+—Señor, esta también es su computadora.
 
-**Respuesta:** un bucle infinito.
+Batman decide revisar los datos de entrada.
 
-La pista estaba en la variable que nadie actualizó.
-
-</details>
-
-<details>
-<summary><b>🚨 Se encendió la Batseñal</b></summary>
-
-<br>
-
-Las frases que la activan:
-
-- «Solo voy a cambiar una cosita».
-- «No hace falta probar ese caso».
-- «En la Baticomputadora sí funciona».
-- «¿Quién tocó este archivo?».
-
-**Primero revisamos los cambios. Después buscamos al villano.**
+**El Joker queda descartado por el momento.**
 
 </details>
 
 ---
 
-<div align="center">
+<p align="center">
+  <strong>Primero lo imaginamos. Luego lo programamos. Y si falla, lo depuramos juntos</strong>
+</p>
 
-### GOTHAM PUEDE DORMIR. ESE BUG TODAVÍA NO.
-
-**Primero lo imaginamos. Luego lo programamos.**  
-**Y si falla, lo depuramos juntos.**
-
-🦇
-
-*No hace falta una capa para resolver grandes problemas.*  
-*Hace falta aprender, practicar y volver a intentarlo.*
-
-<br>
-
-<sub>Una práctica con lógica, trabajo en equipo y espíritu de detective.</sub>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0D1117,60:252525,100:FACC15&amp;height=120&amp;section=footer" width="100%" alt="Ondas decorativas negras y amarillas inspiradas en Gotham">
-
-</div>
+<p align="center">
+  🦇<br>
+  <em>La próxima pista puede estar en esa línea que todavía no revisamos.</em>
+</p>
