@@ -112,7 +112,7 @@ Nuestro cinturón de herramientas empieza con atención, paciencia y disposició
 
 ## ☕ Zona de descanso · Alfred sirve el café
 
-Hasta el Caballero Oscuro necesita descansar entre compilaciones. Un pequeño descanso antes de volver al expediente.
+Hasta el Caballero Oscuro necesita descansar entre compilaciones ... Un pequeño descanso antes de volver al expediente.
 
 <details>
 <summary><b>🦇 Batman, ¿cuál es tu superpoder?</b></summary>
