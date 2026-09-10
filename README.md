@@ -1,39 +1,39 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0D1117,50:991B1B,100:DC2626&amp;height=230&amp;section=header&amp;text=PRUEBA-PRACTICA&amp;fontSize=44&amp;fontColor=FFFFFF&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=INICIATIVA%20CODEVENGERS&amp;descAlignY=60&amp;descSize=22&amp;descColor=FFFFFF" width="100%" alt="Prueba-Practica — Iniciativa Codevengers">
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:450A0A,50:B91C1C,100:FACC15&amp;height=230&amp;section=header&amp;text=PRUEBA-PRACTICA&amp;fontSize=44&amp;fontColor=FFFFFF&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=THE%20FLASH%20%7C%20SPEED%20FORCE%20CODERS&amp;descAlignY=60&amp;descSize=19&amp;descColor=FFFFFF" width="100%" alt="Prueba-Practica — The Flash: Speed Force Coders">
 
-# 🦸 UN EQUIPO EXTRAORDINARIO PARA CADA RETO.
+# ⚡ IDEAS A LA VELOCIDAD DEL RAYO.
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=700&amp;size=21&amp;duration=3200&amp;pause=1500&amp;color=DC2626&amp;center=true&amp;vCenter=true&amp;width=850&amp;height=70&amp;lines=Si+lo+puedes+imaginar%2C+lo+puedes+programar.;Cinco+mentes.+Un+equipo.+Infinitas+ideas.;Un+gran+c%C3%B3digo+conlleva+una+gran+responsabilidad.;Codevengers%2C+%C2%A1reun%C3%ADos!" width="100%" alt="Si lo puedes imaginar, lo puedes programar. Un gran código conlleva una gran responsabilidad. Codevengers, ¡reuníos!">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=700&amp;size=21&amp;duration=2600&amp;pause=1300&amp;color=DC2626&amp;center=true&amp;vCenter=true&amp;width=850&amp;height=70&amp;lines=Si+lo+puedes+imaginar%2C+lo+puedes+programar.;Cinco+mentes.+Un+equipo.+Infinitas+ideas.;Corre%2C+Barry%2C+corre...+pero+guarda+primero.;La+velocidad+impresiona.+La+l%C3%B3gica+resuelve." width="100%" alt="Si lo puedes imaginar, lo puedes programar. Corre, Barry, corre… pero guarda primero.">
 
-**Ingenio de laboratorio. Espíritu de equipo. Código con propósito.**
+**La velocidad nos inspira. La lógica nos guía.**
 
-<img src="https://img.shields.io/badge/UNIVERSO-MARVEL-DC2626?style=for-the-badge&amp;labelColor=0D1117" alt="Temática: universo Marvel">
-<img src="https://img.shields.io/badge/EQUIPO-5_INTEGRANTES-2563EB?style=for-the-badge&amp;labelColor=0D1117" alt="Equipo de cinco integrantes">
-<img src="https://img.shields.io/badge/MISIÓN-APRENDER_Y_RESOLVER-CA8A04?style=for-the-badge&amp;labelColor=0D1117" alt="Misión: aprender y resolver">
+<img src="https://img.shields.io/badge/UNIVERSO-DC-DC2626?style=for-the-badge&amp;labelColor=450A0A" alt="Temática: universo DC">
+<img src="https://img.shields.io/badge/EQUIPO-5_INTEGRANTES-CA8A04?style=for-the-badge&amp;labelColor=450A0A" alt="Equipo de cinco integrantes">
+<img src="https://img.shields.io/badge/MISIÓN-APRENDER_Y_RESOLVER-DC2626?style=for-the-badge&amp;labelColor=450A0A" alt="Misión: aprender y resolver">
 
 <br><br>
 
-*Bienvenidos a nuestra base de operaciones.*<br>
-Aquí reunimos ideas, investigamos errores y construimos soluciones en equipo.
+*Bienvenidos a nuestra base en Central City.*<br>
+Aquí cada idea aporta energía y cada prueba nos acerca a una solución.
 
 </div>
 
 ---
 
-## 🌍 El origen de la iniciativa
+## 🌩️ El origen: Prueba-Practica
 
-Este repositorio está destinado a nuestra **prueba práctica de programación en equipo**. Nuestro propósito es aplicar conocimientos, fortalecer el razonamiento lógico y desarrollar soluciones claras mediante la colaboración.
+Este repositorio está destinado a nuestra **prueba práctica de programación en equipo**. Su propósito es aplicar conocimientos, fortalecer el razonamiento lógico y construir soluciones claras mediante la colaboración.
 
-Inspirados en el universo Marvel, presentamos cada ejercicio como una misión: comprender el problema, preparar una estrategia y comprobar que la solución funcione.
+Con una temática inspirada en **Flash de DC**, convertimos cada ejercicio en una misión: analizar el problema, preparar una estrategia y comprobar los resultados antes de cruzar la meta.
 
 > **«Si lo puedes imaginar, lo puedes programar».**
 >
-> Toda gran creación empieza con una idea y alguien dispuesto a desarrollarla.
+> Toda gran solución comienza con una chispa de curiosidad.
 
-## 🛡️ El equipo: Codevengers
+## ⚡ Nuestro Team Flash
 
-Cada integrante aporta una perspectiva distinta para resolver la misión.
+Cada integrante aporta ideas para que el equipo avance.
 
 | N.º | Integrante |
 | :---: | :--- |
@@ -47,157 +47,137 @@ Cada integrante aporta una perspectiva distinta para resolver la misión.
 
 **Cinco mentes. Un equipo. Infinitas ideas.**
 
-*La colaboración es nuestro punto de encuentro.*
+*La colaboración es nuestra Fuerza de la Velocidad.*
 
 </div>
 
-## ⚙️ Protocolo de misión
+## 🔬 Protocolo de S.T.A.R. Labs
 
-| Fase | Operación | Objetivo |
+| Fase | Misión | Qué hacemos |
 | :---: | :--- | :--- |
-| **01** | **Analizar · Reunir información** | Identificar las entradas, las condiciones y los resultados esperados. |
-| **02** | **Diseñar · Preparar la estrategia** | Organizar los pasos lógicos de la solución. |
-| **03** | **Programar · Construir la tecnología** | Convertir el diseño en instrucciones claras y ordenadas. |
-| **04** | **Probar · Simular escenarios** | Comprobar casos normales, datos inválidos y casos límite. |
-| **05** | **Documentar · Entregar el informe** | Explicar las decisiones, los resultados y lo aprendido. |
+| **01** | **Analizar · Detectar la señal** | Identificar los datos, las condiciones y los resultados esperados. |
+| **02** | **Diseñar · Trazar la ruta** | Organizar los pasos lógicos antes de programar. |
+| **03** | **Programar · Activar la energía** | Convertir el diseño en instrucciones claras y ordenadas. |
+| **04** | **Probar · Revisar la línea temporal** | Comprobar casos normales, entradas inválidas y casos límite. |
+| **05** | **Documentar · Registrar la misión** | Explicar las decisiones, los resultados y lo aprendido. |
 
-> **Protocolo de la base:** «En mi computadora sí funciona» es el inicio de una investigación, no su conclusión.
+> **Regla del laboratorio:** ejecutar más rápido un error no lo convierte en una solución.
 
-## 💡 Nuestro código de equipo
+## 💡 Nuestra Fuerza de la Velocidad
 
-- **Ingenio para crear.** Explorar ideas y elegir soluciones que podamos explicar.
-- **Responsabilidad al programar.** Escribir pensando en quienes leerán el código.
-- **Constancia ante los errores.** Investigar la causa y mejorar cada intento.
-- **Claridad para colaborar.** Usar nombres comprensibles y compartir lo aprendido.
-- **Disciplina para comprobar.** Probar la solución antes de dar la misión por terminada.
+- **Lógica para orientarnos.** Comprender el problema antes de acelerar.
+- **Creatividad para explorar.** Proponer distintas formas de resolverlo.
+- **Claridad para colaborar.** Escribir código que el equipo pueda entender.
+- **Constancia para mejorar.** Revisar la causa de cada fallo y volver a intentar.
+- **Disciplina para comprobar.** Reservar tiempo para probar y documentar.
 
-> 🕸️ **«Un gran código conlleva una gran responsabilidad».**
->
-> Especialmente cuando tus compañeros tienen que mantenerlo mañana.
+**La meta es llegar con una solución que podamos explicar.**
 
-## 💎 Las seis gemas de una buena solución
+## 🌀 Amenazas de Central City
 
-*Nuestra propia colección de principios para programar.*
+*Nuestro archivo humorístico de errores frecuentes.*
 
-| Gema | Principio | Cómo lo aplicamos |
+| Amenaza | Su versión en programación | Cómo enfrentarla |
 | :--- | :--- | :--- |
-| 🟣 **Poder** | Lógica | Construir pasos coherentes para resolver el problema. |
-| 🔵 **Espacio** | Organización | Dar una estructura clara al código. |
-| 🔴 **Realidad** | Validación | Comprobar los datos que realmente puede ingresar el usuario. |
-| 🟠 **Alma** | Colaboración | Escuchar y aportar al trabajo del equipo. |
-| 🟢 **Tiempo** | Planificación | Distribuir el trabajo y reservar tiempo para revisar. |
-| 🟡 **Mente** | Comprensión | Entender y explicar cada decisión. |
+| **Flash Reverso** | Una condición que produce el resultado contrario. | Revisar los operadores y probar ambas ramas. |
+| **Captain Cold** | El programa parece haberse congelado. | Revisar bucles, condiciones de salida y esperas de entrada. |
+| **Gorilla Grodd** | Una expresión tan enredada que exige telepatía. | Simplificar la lógica y usar nombres claros. |
+| **Weather Wizard** | Una tormenta de datos inesperados. | Validar las entradas antes de procesarlas. |
+| **Flashpoint** | Un cambio pequeño altera resultados en otras partes. | Revisar sus efectos y repetir las pruebas relevantes. |
 
-**Reunirlas requiere práctica. Un chasquido no reemplaza las pruebas.**
+## ☕ Una pausa en S.T.A.R. Labs
 
-## ☕ Escenas poscréditos
-
-Porque después de una misión también hay tiempo para reír.
+Hasta un velocista puede tomarse un momento entre compilaciones.
 
 <details>
-<summary><b>🤖 Iron Man activa el modo depuración</b></summary>
+<summary><b>⚡ Corre, Barry, corre…</b></summary>
 
 <br>
 
-—JARVIS, encuentra el error.
+—¡Barry, tienes que correr!
 
-—Señor, falta un punto y coma.
+—¿Para salvar Central City?
 
-—¿Para eso construí toda esta tecnología?
+—No. Para entregar antes de que cierre la plataforma.
 
-**Incluso una armadura necesita revisar la sintaxis.**
+**La próxima misión incluye organizar mejor el tiempo.**
 
 </details>
 
 <details>
-<summary><b>🔨 Thor intenta ejecutar el programa</b></summary>
-
-<br>
-
-—¿Por qué no compila?
-
-—Hay un error en esa línea.
-
-—¿Y si le doy con el martillo?
-
-**El teclado solicita traslado inmediato a otra base.**
-
-</details>
-
-<details>
-<summary><b>🟢 Hulk descubre un bucle infinito</b></summary>
-
-<br>
-
-—Hulk esperar.
-
-—Hulk seguir esperando.
-
-—HULK REVISAR CONDICIÓN DE SALIDA.
-
-**Bruce Banner aprueba esta estrategia.**
-
-</details>
-
-<details>
-<summary><b>🌀 Doctor Strange revisa los casos de prueba</b></summary>
-
-<br>
-
-—He revisado millones de escenarios.
-
-—¿En cuántos funciona?
-
-—En el único donde el usuario escribe exactamente lo que esperábamos.
-
-**Siguiente misión: validar las entradas.**
-
-</details>
-
-<details>
-<summary><b>💎 Thanos propone optimizar el código</b></summary>
-
-<br>
-
-—Demasiadas líneas. Voy a eliminar la mitad.
-
-—¿Y las funcionalidades?
-
-—Perfectamente equilibradas…
-
-**El equipo rechaza la propuesta durante la revisión.**
-
-</details>
-
-<details>
-<summary><b>🃏 Gambito hace un ajuste pequeño</b></summary>
+<summary><b>🌀 Barry modifica una línea</b></summary>
 
 <br>
 
 —Solo voy a cambiar una cosita.
 
-*Carga el archivo de energía.*
+*Edita una condición.*
 
-**Aparecen doce errores nuevos.**
+Ahora el menú no sale, el promedio es negativo y nadie recuerda por qué.
 
-Que explote la creatividad, no el programa.
+**Felicidades, Barry. Creaste otro Flashpoint.**
 
 </details>
 
 <details>
-<summary><b>🚨 Nick Fury reúne al equipo</b></summary>
+<summary><b>🟡 El mensaje de Flash Reverso</b></summary>
 
 <br>
 
-La alerta se activa con cualquiera de estas frases:
+—Fui yo, Barry.
 
+—¿Tú cambiaste el `menor que` por `mayor que`?
+
+—Y también moví la llave de cierre.
+
+**El verdadero villano dejó pistas en los cambios del archivo.**
+
+</details>
+
+<details>
+<summary><b>❄️ Captain Cold atacó el programa</b></summary>
+
+<br>
+
+—Cisco, la pantalla está congelada.
+
+—¿Ataque de Captain Cold?
+
+—No. Olvidamos actualizar el contador del bucle.
+
+**Amenaza resuelta sin descongelar el teclado.**
+
+</details>
+
+<details>
+<summary><b>🔬 Cisco quiere ponerle nombre al bug</b></summary>
+
+<br>
+
+—Lo llamaré «El Devorador Cuántico de Resultados».
+
+—Cisco, estamos dividiendo entre cero.
+
+—Bueno… el nombre sigue siendo excelente.
+
+**Primero validamos el divisor. Después diseñamos el traje.**
+
+</details>
+
+<details>
+<summary><b>🚨 Alerta de alteración temporal</b></summary>
+
+<br>
+
+Frases que preocupan al laboratorio:
+
+- «En mi línea temporal sí funcionaba».
 - «Ese caso nunca va a pasar».
 - «No hace falta guardar todavía».
-- «Seguro es culpa del compilador».
+- «Lo arreglo regresando a la versión anterior… ¿sí la guardamos?».
 - «Solo cambié una línea».
-- «¿Quién tiene la última versión?».
 
-**Codevengers, reuníos. Y traed los datos de la prueba.**
+**Guardar, revisar y probar evita muchas crisis temporales.**
 
 </details>
 
@@ -205,24 +185,24 @@ La alerta se activa con cualquiera de estas frases:
 
 <div align="center">
 
-### TODA GRAN SOLUCIÓN TIENE UNA HISTORIA DE ORIGEN.
+### LA VELOCIDAD IMPRESIONA. LA LÓGICA RESUELVE.
 
 **Primero lo imaginamos. Luego lo programamos.**  
 **Y si falla, lo depuramos juntos.**
 
-🛡️ ⚡ 🕸️
+⚡
 
-*No hace falta salvar el multiverso hoy.*  
-*Resolver el siguiente problema también es avanzar.*
+*Cada intento nos acerca a la meta.*  
+*Cada aprendizaje nos prepara para el siguiente reto.*
 
 <br>
 
-**CODEVENGERS, ¡REUNÍOS!**
+**CENTRAL CITY, ESTAMOS LISTOS.**
 
-<sub>Hecho con curiosidad, constancia y trabajo en equipo.</sub>
+<sub>Hecho con curiosidad, trabajo en equipo y energía para seguir aprendiendo.</sub>
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0D1117,50:991B1B,100:DC2626&amp;height=120&amp;section=footer" width="100%" alt="Ondas decorativas en negro y rojo inspiradas en Marvel">
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:450A0A,50:B91C1C,100:FACC15&amp;height=120&amp;section=footer" width="100%" alt="Ondas decorativas rojas y amarillas inspiradas en Flash">
 
 </div>
