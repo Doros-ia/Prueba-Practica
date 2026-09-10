@@ -250,3 +250,4 @@ Las frases que la activan:
 <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0D1117,60:252525,100:FACC15&amp;height=100&amp;section=footer" width="100%" alt="Ondas decorativas estáticas negras y amarillas inspiradas en Gotham">
 
 </div>
+Bien Realizado
