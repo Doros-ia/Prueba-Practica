@@ -1,39 +1,41 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0D1117,60:252525,100:FACC15&amp;height=230&amp;section=header&amp;text=PRUEBA-PRACTICA&amp;fontSize=44&amp;fontColor=FACC15&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=GOTHAM%20CODE%20DIVISION&amp;descAlignY=60&amp;descSize=20&amp;descColor=FFFFFF" width="100%" alt="Prueba-Practica — Gotham Code Division">
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:160B25,50:701A75,100:DB2777&amp;height=230&amp;section=header&amp;text=PRUEBA-PRACTICA&amp;fontSize=44&amp;fontColor=FFFFFF&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=GAMBIT%20%20%7C%20%20CODE%20WITH%20ENERGY&amp;descAlignY=60&amp;descSize=19&amp;descColor=FFFFFF" width="100%" alt="Prueba-Practica — Gambit: Code with Energy">
 
-# 🦇 EL CÓDIGO QUE GOTHAM NECESITA
+# ♠️ CADA LÍNEA ES UNA CARTA. CADA SOLUCIÓN, UNA JUGADA.
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=700&amp;size=21&amp;duration=3200&amp;pause=1500&amp;color=C99700&amp;center=true&amp;vCenter=true&amp;width=850&amp;height=70&amp;lines=Si+lo+puedes+imaginar%2C+lo+puedes+programar.;De+d%C3%ADa+estudiantes.+De+noche%2C+cazadores+de+bugs.;Cinco+mentes.+Un+equipo.+Gotham+nos+espera." width="100%" alt="Si lo puedes imaginar, lo puedes programar. De día estudiantes. De noche, cazadores de bugs.">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=700&amp;size=21&amp;duration=3200&amp;pause=1500&amp;color=C026D3&amp;center=true&amp;vCenter=true&amp;width=850&amp;height=70&amp;lines=Si+lo+puedes+imaginar%2C+lo+puedes+programar.;Cinco+mentes.+Un+equipo.+Infinitas+ideas.;Cargamos+ideas.+Programamos+soluciones.;Que+explote+la+creatividad%2C+no+el+programa." width="100%" alt="Si lo puedes imaginar, lo puedes programar. Cinco mentes. Un equipo. Infinitas ideas.">
 
-**La noche es oscura. La lógica debe estar clara.**
+**Una buena jugada empieza con lógica y termina con estilo.**
 
-<img src="https://img.shields.io/badge/BASE-BATICUEVA-18181B?style=for-the-badge&amp;labelColor=18181B&amp;color=FACC15" alt="Base temática: Baticueva">
-<img src="https://img.shields.io/badge/EQUIPO-5_INTEGRANTES-18181B?style=for-the-badge&amp;labelColor=18181B&amp;color=FACC15" alt="Equipo de cinco integrantes">
-<img src="https://img.shields.io/badge/MISIÓN-RESOLVER_Y_APRENDER-18181B?style=for-the-badge&amp;labelColor=18181B&amp;color=FACC15" alt="Misión: resolver y aprender">
+<img src="https://img.shields.io/badge/ESTILO-GAMBIT-DB2777?style=for-the-badge&amp;labelColor=160B25" alt="Temática: Gambit">
+<img src="https://img.shields.io/badge/EQUIPO-5_INTEGRANTES-9333EA?style=for-the-badge&amp;labelColor=160B25" alt="Equipo de cinco integrantes">
+<img src="https://img.shields.io/badge/ENERGÍA-CREATIVIDAD-C026D3?style=for-the-badge&amp;labelColor=160B25" alt="Nuestra energía: creatividad">
 
 <br><br>
 
-*Bienvenidos a la Baticueva.*<br>
-Aquí investigamos problemas, diseñamos soluciones y seguimos las pistas de cada error.
+**♠ &nbsp; ♥ &nbsp; ♣ &nbsp; ♦**
+
+*Bienvenidos a nuestra mesa de trabajo.*<br>
+Aquí ponemos las ideas sobre la mesa y la lógica en cada decisión.
 
 </div>
 
 ---
 
-## 🌃 El expediente: Prueba-Practica
+## 🃏 La partida: Prueba-Practica
 
-Este repositorio está destinado a nuestra **prueba práctica de programación en equipo**. Nuestra misión es aplicar conocimientos, desarrollar el razonamiento lógico y construir soluciones claras mediante la colaboración.
+Este repositorio está destinado al desarrollo de nuestra **prueba práctica de programación en equipo**. Nuestro objetivo es aplicar conocimientos, fortalecer el razonamiento lógico y construir soluciones comprensibles mediante la colaboración.
 
-Como en una investigación de Gotham, cada dato importa: analizamos el problema, organizamos los pasos y comprobamos que los resultados tengan sentido.
+Con una estética inspirada en **Gambito de Marvel**, combinamos cartas, energía y creatividad para presentar nuestro trabajo. Cada ejercicio es una oportunidad para analizar, probar y aprender.
 
 > **«Si lo puedes imaginar, lo puedes programar».**
 >
-> Incluso el mejor batiinventó necesita un buen diseño… y unas cuantas pruebas.
+> La idea pone la chispa. La práctica le da forma.
 
-## 🦇 La Batfamilia del código
+## ♠️ Cinco integrantes, una misma mesa
 
-Todo gran reto necesita un equipo dispuesto a resolverlo.
+Las mejores jugadas se construyen compartiendo ideas.
 
 | N.º | Integrante |
 | :---: | :--- |
@@ -47,114 +49,120 @@ Todo gran reto necesita un equipo dispuesto a resolverlo.
 
 **Cinco mentes. Un equipo. Infinitas ideas.**
 
-*La mejor herramienta de la Baticueva es trabajar juntos.*
+*Cada integrante aporta una carta distinta a la solución.*
 
 </div>
 
-## 🔎 Protocolo de la Baticueva
+## ♦️ Nuestra estrategia
 
-| Fase | Operación | Objetivo |
+| Turno | Jugada | Qué hacemos |
 | :---: | :--- | :--- |
-| **01** | **Investigar · Analizar** | Identificar los datos, las condiciones y el resultado esperado. |
-| **02** | **Preparar · Diseñar** | Organizar una solución lógica antes de escribir código. |
-| **03** | **Construir · Programar** | Transformar el diseño en instrucciones claras. |
-| **04** | **Inspeccionar · Probar** | Revisar casos normales, entradas inválidas y casos límite. |
-| **05** | **Archivar · Documentar** | Explicar el funcionamiento y registrar lo aprendido. |
+| **01** | **Leer la mesa · Analizar** | Identificamos el problema, las entradas y los resultados esperados. |
+| **02** | **Preparar la mano · Diseñar** | Organizamos los pasos y las condiciones de la solución. |
+| **03** | **Cargar las cartas · Programar** | Convertimos el diseño en código claro y ordenado. |
+| **04** | **Comprobar la jugada · Probar** | Revisamos casos normales, entradas inválidas y casos límite. |
+| **05** | **Registrar la partida · Documentar** | Explicamos las decisiones, los resultados y lo aprendido. |
 
-> **Regla de la Baticueva:** ningún caso se cierra solo porque «en mi computadora sí funciona».
+> **Regla de la mesa:** que compile es una buena señal; comprobar los resultados completa la jugada.
 
-## ⚡ Nuestro código de conducta
+## ♥️ Lo que nos da energía
 
-- **Investigar antes de actuar.** Entender el problema es parte de resolverlo.
-- **Prepararse para lo inesperado.** Los casos límite también merecen una prueba.
-- **Dejar pistas útiles.** Variables claras y comentarios que expliquen lo necesario.
-- **Mantener la constancia.** Si una solución falla, revisamos y ajustamos.
-- **Cuidar al equipo.** Compartir lo aprendido nos permite avanzar juntos.
+- **Lógica:** entender el problema antes de escribir la primera línea.
+- **Creatividad:** explorar distintas soluciones y elegir con criterio.
+- **Claridad:** escribir código que el equipo pueda comprender.
+- **Constancia:** investigar los errores y mejorar cada intento.
+- **Colaboración:** escuchar, explicar y compartir lo aprendido.
 
-## 🗂️ Galería de villanos
+**Nuestro as bajo la manga: poder explicar cómo funciona la solución.**
 
-*Clasificación humorística de los enemigos del programa.*
+## ♣️ Cartas que conviene revisar
 
-| Villano | Su versión en programación | Cómo enfrentarlo |
+*Una pequeña baraja de errores comunes.*
+
+| Carta | Qué puede ocurrir | Nuestra respuesta |
 | :--- | :--- | :--- |
-| **El Joker** | El error que convierte la salida en un caos. | Reproducir el fallo y seguir el flujo del programa. |
-| **El Acertijo** | Una condición que nadie consigue descifrar. | Simplificar la expresión y revisar su lógica. |
-| **Dos Caras** | El `if` funciona, pero el `else` guarda una sorpresa. | Probar ambas ramas. |
-| **El Espantapájaros** | Ese mensaje de error que da miedo leer. | Revisar el mensaje completo y localizar la causa. |
-| **Bane** | El caso límite que rompe la solución. | Comprobar límites y validar las entradas. |
+| **El bucle eterno** | La condición nunca permite terminar. | Revisar la actualización de las variables y la salida. |
+| **La entrada sorpresa** | Un dato inválido altera el resultado. | Validar antes de procesar. |
+| **La condición tramposa** | Una expresión toma una decisión incorrecta. | Revisar los operadores y probar cada rama. |
+| **El límite olvidado** | La solución falla justo en un extremo. | Comprobar mínimos, máximos y valores especiales. |
+| **La variable misteriosa** | Nadie entiende qué representa `x2finalfinal`. | Elegir nombres claros y descriptivos. |
 
-## ☕ Descanso en la Baticueva
+## ☕ Entre cartas y compilaciones
 
-Hasta el Caballero Oscuro necesita descansar entre compilaciones.
+Un poco de humor antes de la siguiente jugada.
 
 <details>
-<summary><b>🦇 Batman, ¿cuál es tu superpoder?</b></summary>
+<summary><b>🃏 Gambito hizo un pequeño cambio</b></summary>
 
 <br>
 
-**Encontrar el punto y coma que faltaba después de revisar todo el programa.**
+—Solo voy a cambiar una cosita.
 
-El presupuesto de Wayne Enterprises todavía no resuelve ese problema.
+*Carga una línea de código con energía cinética.*
+
+**Aparecen doce errores nuevos.**
+
+Quizá esa carta necesitaba una prueba antes de lanzarla.
 
 </details>
 
 <details>
-<summary><b>🤵 Un consejo de Alfred</b></summary>
+<summary><b>🧠 El Profesor X revisa el programa</b></summary>
 
 <br>
 
-—Señor, quizá debería guardar los cambios antes de volver a ejecutar.
+Puede leer mentes, pero todavía necesita una explicación para entender:
 
-—Alfred, lo tengo todo bajo control.
+`dato2_aux_final_ahora_si`
 
-**El editor se cierra.**
-
-Esa noche nació una nueva costumbre: guardar con frecuencia.
+**Los nombres claros también ayudan a los telépatas.**
 
 </details>
 
 <details>
-<summary><b>🃏 El plan del Joker</b></summary>
+<summary><b>🐺 Wolverine contra el bug</b></summary>
 
 <br>
 
-—Batman, cambié un solo símbolo de tu condición.
+—Ya lo eliminé.
 
-—¿Qué hiciste?
+—Volvió a aparecer.
 
-—Reemplacé `&&` por `||`.
+—Ya lo eliminé otra vez.
 
-**Gotham entera pasó la validación.**
+**Ese error tiene más regeneración que Wolverine.**
+
+Hora de buscar la causa y dejar de corregir solamente el síntoma.
 
 </details>
 
 <details>
-<summary><b>❓ El Acertijo tiene una pregunta</b></summary>
+<summary><b>💜 Una prueba con Rogue</b></summary>
 
 <br>
 
-*«Repito sin descansar, no sé cuándo terminar.  
-Si mi condición no cambia, ¿quién me podrá parar?»*
+—¿Validaste los datos de entrada?
 
-**Respuesta:** un bucle infinito.
+—No, pero nadie va a escribir algo raro.
 
-La pista estaba en la variable que nadie actualizó.
+*Rogue escribe letras donde se esperaba un número.*
+
+**La siguiente mejora ya tiene nombre: validación.**
 
 </details>
 
 <details>
-<summary><b>🚨 Se encendió la Batseñal</b></summary>
+<summary><b>🚨 Frases antes de una jugada peligrosa</b></summary>
 
 <br>
 
-Las frases que la activan:
+- «En mi computadora sí funciona».
+- «Ese caso nunca va a pasar».
+- «No hace falta guardar todavía».
+- «Seguro el problema es del compilador».
+- «Una prueba más y nos vamos».
 
-- «Solo voy a cambiar una cosita».
-- «No hace falta probar ese caso».
-- «En la Baticomputadora sí funciona».
-- «¿Quién tocó este archivo?».
-
-**Primero revisamos los cambios. Después buscamos al villano.**
+**Consejo de la mesa:** guardar, comprobar y después celebrar.
 
 </details>
 
@@ -162,20 +170,21 @@ Las frases que la activan:
 
 <div align="center">
 
-### GOTHAM PUEDE DORMIR. ESE BUG TODAVÍA NO.
+**♠ &nbsp; ♥ &nbsp; ♣ &nbsp; ♦**
+
+### QUE EXPLOTE LA CREATIVIDAD, NO EL PROGRAMA.
 
 **Primero lo imaginamos. Luego lo programamos.**  
 **Y si falla, lo depuramos juntos.**
 
-🦇
-
-*No hace falta una capa para resolver grandes problemas.*  
-*Hace falta aprender, practicar y volver a intentarlo.*
+*La próxima gran solución puede estar en la siguiente idea.*
 
 <br>
 
-<sub>Una práctica con lógica, trabajo en equipo y espíritu de detective.</sub>
+<sub>Hecho con lógica, energía y una buena mano de trabajo en equipo.</sub>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0D1117,60:252525,100:FACC15&amp;height=120&amp;section=footer" width="100%" alt="Ondas decorativas negras y amarillas inspiradas en Gotham">
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:160B25,50:701A75,100:DB2777&amp;height=120&amp;section=footer" width="100%" alt="Ondas decorativas en violeta oscuro y magenta inspiradas en Gambito">
 
 </div>
