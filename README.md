@@ -58,7 +58,7 @@ Todo gran reto necesita un equipo dispuesto a resolverlo. Nuestra mesa de la Bat
 
 | N.º | BatIntegrante | BatOperaciones | BatObjetivo |
 | :---: | :--- | :--- | :--- |
-| **1** | **Paredes Acosta Dereck Shair** | **Detective del Código Oscuro · Investigar · Analizar** | Identificar los datos de entrada, las condiciones y el resultado esperado del problema. |
+| **1** | **Paredes Acosta Dereck Shair** | **Detective del Código Oscuro · Investigar · Analista** | Identificar los datos de entrada, las condiciones y el resultado esperado del problema. |
 | **2** | **Ashanga Yumbo Brishy Anahy** | **Arquitecto de la Baticueva Digital · Preparar · Diseñar** | Organizar una secuencia lógica de solución antes de escribir código. |
 | **3** | **Calderon Carvajal Fher Dorian** | **Caballero del Backend · Construir · Programar** | Transformar el diseño en instrucciones claras, comprensibles y ordenadas. |
 | **4** | **Casillas Ochoa Antony Sebastian** | **Guardián Nocturno del Testing · Inspeccionar · Probar** | Revisar casos normales, entradas inválidas y situaciones límite. |
