@@ -97,10 +97,16 @@ cd prueba-practica-logica-Karing-Sanchez
 
 ## 📷 Evidencias de Ejecución
 
-A continuación se muestran las capturas de pantalla de los programas funcionando correctamente en la terminal de Visual Studio Code:
+A continuación se muestran las capturas de pantalla de los programas funcionando. Puedes hacer clic en los enlaces o en las imágenes para ir directamente a las carpetas de cada ejercicio:
 
-### Ejercicio 1:
-<img src="capturas-ejecucion/ejercicio1_resultado.png" alt="Ejecución Ejercicio 1" width="600px">
+### 🚀 [Ir a la carpeta de Ejercicio 1](./ejercicio-1/)
+<a href="./ejercicio-1/">
+  <img src="capturas-ejecucion/ejercicio1_resultado.png" alt="Ejecución Ejercicio 1" width="600px" title="Clic para ir a la carpeta del Ejercicio 1">
+</a>
 
-### Ejercicio 2:
-<img src="capturas-ejecucion/ejercicio2_resultado.png" alt="Ejecución Ejercicio 2" width="600px">
+---
+
+### 📊 [Ir a la carpeta de Ejercicio 2](./ejercicio-2/)
+<a href="./ejercicio-2/">
+  <img src="capturas-ejecucion/ejercicio2_resultado.png" alt="Ejecución Ejercicio 2" width="600px" title="Clic para ir a la carpeta del Ejercicio 2">
+</a>
