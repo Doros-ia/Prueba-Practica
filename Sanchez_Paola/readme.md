@@ -99,20 +99,14 @@ cd prueba-practica-logica-Karing-Sanchez
 
 A continuación se muestran las capturas de pantalla de los programas funcionando. Puedes hacer clic en los enlaces o en las imágenes para ir directamente a la carpeta de cada ejercicio:
 
-### 🚀 [Ir a la carpeta de Ejercicio 1](./Sanchez_Paola/Ejercicio1/)
-<a href="./Sanchez_Paola/Ejercicio1/">
-  <img src="./Sanchez_Paola/Ejercicio1/Captura%20de%20pantalla%202026-09-11%20135303.png" alt="Ejecución Ejercicio 1" width="600px" title="Clic para ir a la carpeta del Ejercicio 1">
+### 🚀 [Ir a la carpeta de Ejercicio 1](./Ejercicio1/)
+<a href="./Ejercicio1/">
+  <img src="./Ejercicio1/Captura%20de%20pantalla%202026-09-11%20135303.png" alt="Ejecución Ejercicio 1" width="600px" title="Clic para ir a la carpeta del Ejercicio 1">
 </a>
 
 ---
 
-### 📊 [Ir a la carpeta de Ejercicio 2](./Sanchez_Paola/Ejercicio2/)
-<a href="./Sanchez_Paola/Ejercicio2/">
-  <img src="./Sanchez_Paola/Ejercicio2/Captura%20de%20pantalla%202026-09-11%20143327.png" alt="Ejecución Ejercicio 2" width="600px" title="Clic para ir a la carpeta del Ejercicio 2">
-</a>
-
-
-### 📊 [Ir a la carpeta de Ejercicio 2](./ejercicio-2/)
-<a href="./ejercicio-2/">
-  <img src="capturas-ejecucion/ejercicio2_resultado.png" alt="Ejecución Ejercicio 2" width="600px" title="Clic para ir a la carpeta del Ejercicio 2">
+### 📊 [Ir a la carpeta de Ejercicio 2](./Ejercicio2/)
+<a href="./Ejercicio2/">
+  <img src="./Ejercicio2/Captura%20de%20pantalla%202026-09-11%20143327.png" alt="Ejecución Ejercicio 2" width="600px" title="Clic para ir a la carpeta del Ejercicio 2">
 </a>
