@@ -34,13 +34,13 @@
 ```text
 ├── README.md
 ├── Ejercicio1.java
-├── EvaluacionProyecto.java
+├── Ejercicio2.java
 ├── evidencia-manual/
 │   ├── analisis-algoritmo.pdf
 │   └── prueba-escritorio.pdf
 └── capturas-ejecucion/
     ├── terminal-ejercicio1.png
-    └── terminal-evaluacion-proyecto.png
+    └── terminal-ejercicio2.png
 ```
 
 ---
